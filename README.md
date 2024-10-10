@@ -34,9 +34,8 @@ REG:21223230161
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
-Developed By : R PRIYANGA
-Register number : 212223230161
-````
+```
+
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -80,8 +79,8 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/d1065a8d-6369-481e-b469-3f71d84719bc)
 
-# RESULT
+## RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
